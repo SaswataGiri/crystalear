@@ -3,6 +3,7 @@
     <style name="Base.Theme.CrystalEAR" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryVariant">@color/light_purple</item>
     </style>
 
     <style name="Theme.CrystalEAR" parent="Base.Theme.CrystalEAR" />
