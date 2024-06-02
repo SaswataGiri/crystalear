@@ -173,6 +173,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     companion object {
-        private val RECORD_AUDIO_PERMISSION = 100
+        private const val RECORD_AUDIO_PERMISSION = 100
     }
 }
