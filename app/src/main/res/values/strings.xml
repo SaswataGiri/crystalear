@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CrystalEAR</string>
+    <string name="amplify">Amplification</string>
+    <string name="noiseCancellation">Noise Cancellation</string>
+    <string name="started">Started!</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="crystalear">CrystalEAR</string>
+    <string name="img">img</string>
+</resources>
