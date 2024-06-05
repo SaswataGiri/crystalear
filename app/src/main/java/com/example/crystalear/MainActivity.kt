@@ -63,19 +63,6 @@ class MainActivity : AppCompatActivity() {
                 noiseCancellation = isChecked
         }
 
-        /*mBinding.slider.addOnSliderTouchListener(
-            object : Slider.OnSliderTouchListener {
-                override fun onStartTrackingTouch(p0: Slider) {
-                    TODO("Not yet implemented")
-                }
-
-                override fun onStopTrackingTouch(p0: Slider) {
-                    TODO("Not yet implemented")
-                }
-
-            }
-        )*/
-
         mBinding.slider.addOnChangeListener { _, fl, _ ->
             amplificationFactor = fl.toDouble()
         }
